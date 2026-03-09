@@ -1,5 +1,5 @@
-# bootcacamp
-1º site para bootcamp
+# botcamp
+1º site para botcamp
       HTML
 <!DOCTYPE html>
 <html lang="pt-br">
